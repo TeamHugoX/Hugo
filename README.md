@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/6779fbab624866ad19093.jpg" alt="Hugo Userbot Logo">
+  <img src="./resources/extras/hugo.png" alt="Hugo Userbot Logo">
 </p>
 <h1 align="center">
   <b>Hugo - UserBot</b>
